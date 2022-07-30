@@ -11,8 +11,8 @@
 
 ## 살펴보기
 
-- JPA와 QUERY_DSL [[_j_q_INDEX]]
+- JPA와 QUERY_DSL [[j_q_INDEX]]
 
-- SPRING [[_spring_index]]
+- SPRING [[spring_index]]
 
-- 디자인 패턴 [[_dp_index]]
+- 디자인 패턴 [[dp_index]]
