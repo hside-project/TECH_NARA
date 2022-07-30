@@ -1,1 +1,0 @@
-[[DESIGN_PATTERN/객체지향과_디자인패턴/index]]

@@ -130,15 +130,15 @@
   },
   "active": "c49447d2835377bd",
   "lastOpenFiles": [
-    "DESIGN_PATTERN/객체지향과_디자인패턴/index.md",
-    "DESIGN_PATTERN/index.md",
-    "index.md",
-    "SPRING/SPRING_INDEX.md",
     "SPRING/first-page.md",
+    "SPRING/_spring_index.md",
+    "JPA_QUERY_DSL/_j_q_INDEX.md",
+    "JPA_QUERY_DSL/QUERY_DSL/first-page.md",
     "JPA_QUERY_DSL/QUERY_DSL/_querydsl_index.md",
-    "JPA_QUERY_DSL/index.md",
-    "JPA_QUERY_DSL/강의/index.md",
-    "animals/cats.md",
-    "your-first-note.md"
+    "JPA_QUERY_DSL/강의/자바_ORM_표준_JPA_프로그래밍/1.SQL 중심적인 개발의 문제점.md",
+    "JPA_QUERY_DSL/강의/자바_ORM_표준_JPA_프로그래밍/_progress.md",
+    "DESIGN_PATTERN/_dp_index.md",
+    "DESIGN_PATTERN/객체지향과_디자인패턴/_oo_d_index.md",
+    "DESIGN_PATTERN/객체지향과_디자인패턴/1.first-page.md"
   ]
 }
