@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f6861475a24d4159",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49447d2835377bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1a88bec14f07cd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbef129199eee823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8d9e2a96cd72d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67d5f3783f66b0eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07eeff472d9759ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52101a156c7ccdb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "85df40d9d1cc11df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d9aa05648074292",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc7bf1d6ac806e18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "687aeeddceead817",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "810524a3751678d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c49447d2835377bd",
+  "lastOpenFiles": [
+    "DESIGN_PATTERN/객체지향과_디자인패턴/index.md",
+    "DESIGN_PATTERN/index.md",
+    "index.md",
+    "SPRING/SPRING_INDEX.md",
+    "SPRING/first-page.md",
+    "JPA_QUERY_DSL/QUERY_DSL/_querydsl_index.md",
+    "JPA_QUERY_DSL/index.md",
+    "JPA_QUERY_DSL/강의/index.md",
+    "animals/cats.md",
+    "your-first-note.md"
+  ]
+}
