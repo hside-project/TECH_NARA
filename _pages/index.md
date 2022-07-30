@@ -7,16 +7,20 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+> 💚 TECH_NARA 에 오신것을 환영합니다! 💚
+>
+> 여기는 개발 지식을 공유하는 공간입니다
+> 언제든지, 무엇이든지 재미있는 정보가 있다면 주고받아요
+>
+> 팀원 모두 배우는 단계니 이상한 문제가 있다면 [issues](https://github.com/hside-project/TECH_NARA/issues)에 남겨주세요🐥
+>
+> 글을 작성하는 방법은 [here](https://github.com/hside-project/TECH_NARA/blob/main/README.md) 로 와주세요
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+## 살펴보기
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+- JPA와 QUERY_DSL [[jq_index]]
+
+- SPRING [[spring_index]]
+
+- 디자인 패턴 [[dp_index]]
