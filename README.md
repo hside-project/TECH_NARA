@@ -1,23 +1,28 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+# TECH_NARA
 
-# Digital garden Jekyll template
+- 게시글은 [여기](https://h-dream-tech-nara.netlify.app) 에 올라오게 됩니다
 
-Use this template repository to get started with your own digital garden.
+-  글 작성 템플릿은 [여기](https://github.com/hside-project/TECH_NARA/blob/main/template.md) 서 확인해 주세요
+  - 모두에게 설명하는 용도니 최대한 설명을 풀어서 적어주세요
+- 글은 `TECH_NARA/_notes/` 경로에 맞는 글을 작성해 주시면 됩니다
+- **글 작성시 PR 로 요청해주세요**
 
-**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
 
-Preview the template here: https://digital-garden-jekyll-template.netlify.app/
 
-- Based on Jekyll, a static website generator
-- Supports Roam-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Includes graph visualization of the notes and their links
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
+- 작성문서는 마크다운입니다.
+- 하지만 해당 사이트는 옵시디언을 가지고 작성됩니다. 
+  - [옵시디언 공식 사이트](https://obsidian.md/)
+  - 옵시디언이 궁금하면 [여기](https://thesecondbrain.tistory.com/entry/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EA%B8%B0%EB%8A%A5-%ED%8A%B9%EC%A7%95)
+- 옵시디언의 가장 큰 장점은 자료와 자료를 이어주는 **그래프** 에 있습니다
+- 루트에 있는 **Welcome** 에 대주제의 링크를 연결하고 
+  - 대주제 디렉토리의 **...index** 에는 소주제의 **...index**와 연결합니다
+    - 이렇게 가장 하위 디렉토의 **..index** 에  작성글을 연결하면 됩니다.
+- 자료를 연결하려면 `[[파일명]]` 으로 하면 됩니다
+  - (가장 편한방법은 옵시디언 노트를 다운받는 것입니다...)
 
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
+- 폴더에는 꼭 **...index** 파일이 있어야 합니다. 
+  - 깔끔한 연결을 위해서..
 
-## License
 
-Source code is available under the [MIT license](LICENSE.md).
+
+- ***모르겠으면 혜진이한테 문의바람*** 

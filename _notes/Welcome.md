@@ -7,12 +7,14 @@
 > 
 > 팀원 모두 배우는 단계니 이상한 문제가 있다면 [issues](https://github.com/hside-project/TECH_NARA/issues)에 남겨주세요🐥
 > 
-> 
+> 글을 작성하는 방법은 [here](https://github.com/hside-project/TECH_NARA/blob/main/README.md) 로 와주세요
+
 
 ## 살펴보기
 
-- JPA와 QUERY_DSL [[j_q_INDEX]]
+- JPA와 QUERY_DSL [[jq_index]]
 
 - SPRING [[spring_index]]
 
 - 디자인 패턴 [[dp_index]]
+
